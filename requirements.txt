@@ -1,0 +1,11 @@
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.0
+torch==2.2.0
+pennylane==0.37.0
+stable-baselines3==2.3.2
+gymnasium==0.29.1
+scipy==1.13.0
+tqdm==4.66.2
+# Optional (for debugging or visualization)
+seaborn==0.13.2
